@@ -1,0 +1,3 @@
+([('main',
+   '/Users/mollyhall/Desktop/todolist-python/dist/main',
+   'EXECUTABLE')],)
