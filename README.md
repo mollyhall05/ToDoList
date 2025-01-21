@@ -16,6 +16,8 @@ A simple Python GUI-based To-Do List application built using Tkinter
    ```bash
    git clone https://github.com/mollyhall05/ToDoList.git
 2. Navigate to the project folder:
+   ```bash
    cd ToDoListApp
-3. Run the application:
+4. Run the application:
+   ```bash
    python main.py
